@@ -30,5 +30,5 @@
     <header-file src="src/ios/Open.h"/>
   </platform>
   <dependency id="org.apache.cordova.file"/>
-  <dependency id="https://github.com/mbamobi/cordova-plugin-file-transfer.git#1.6.3"/>
+  <dependency id="org.apache.cordova.file-transfer" url="https://github.com/mbamobi/cordova-plugin-file-transfer.git#1.6.3"/>
 </plugin>
